@@ -100,7 +100,7 @@ Objetivo do MVP:
 Gerar um plano com principais telas, recursos técnicos necessários e esboço para validação inicial com usuários, usando tom educativo e linguagem acessível em português.
 
 ## 🎯 Resultado Final
-Link Loveble: talk-finance-friend.lovable.app
+Link Loveble:[ talk-finance-friend.lovable.app](https://talk-finance-friend.lovable.app/)
 
 <img width="424" height="736" alt="image" src="https://github.com/user-attachments/assets/8680b12f-87bd-485e-af54-8cc1c6a614fc" />
 <img width="438" height="789" alt="image" src="https://github.com/user-attachments/assets/1a60ce27-691a-4530-adce-f97fa4389854" />
